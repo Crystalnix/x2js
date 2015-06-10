@@ -576,3 +576,8 @@ function X2JS(config) {
 	};
 	
 }
+
+if (module.exports) {
+	module.exports = X2JS
+}
+
